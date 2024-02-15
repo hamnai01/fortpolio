@@ -42,4 +42,5 @@ next-env.d.ts
 *.iws
 *.iml
 *.ipr
-
+out
+gen
